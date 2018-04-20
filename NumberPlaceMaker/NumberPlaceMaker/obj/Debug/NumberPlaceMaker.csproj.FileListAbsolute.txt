@@ -1,0 +1,12 @@
+C:\Users\micro\OneDrive\ドキュメント\C#\Number Place\NumberPlaceMaker\NumberPlaceMaker\bin\Debug\NumberPlaceMaker.exe
+C:\Users\micro\OneDrive\ドキュメント\C#\Number Place\NumberPlaceMaker\NumberPlaceMaker\bin\Debug\NumberPlaceMaker.pdb
+C:\Users\micro\OneDrive\ドキュメント\C#\Number Place\NumberPlaceMaker\NumberPlaceMaker\obj\Debug\NumberPlaceMaker.csprojResolveAssemblyReference.cache
+C:\Users\micro\OneDrive\ドキュメント\C#\Number Place\NumberPlaceMaker\NumberPlaceMaker\obj\Debug\NumberPlaceMaker.csproj.CoreCompileInputs.cache
+C:\Users\micro\OneDrive\ドキュメント\C#\Number Place\NumberPlaceMaker\NumberPlaceMaker\obj\Debug\NumberPlaceMaker.exe
+C:\Users\micro\OneDrive\ドキュメント\C#\Number Place\NumberPlaceMaker\NumberPlaceMaker\obj\Debug\NumberPlaceMaker.pdb
+C:\Users\micro\OneDrive\ドキュメント\C#\NumberPlaceMaker\NumberPlaceMaker\obj\Debug\NumberPlaceMaker.csprojResolveAssemblyReference.cache
+C:\Users\micro\OneDrive\ドキュメント\C#\NumberPlaceMaker\NumberPlaceMaker\obj\Debug\NumberPlaceMaker.csproj.CoreCompileInputs.cache
+C:\Users\micro\OneDrive\ドキュメント\C#\NumberPlaceMaker\NumberPlaceMaker\obj\Debug\NumberPlaceMaker.exe
+C:\Users\micro\OneDrive\ドキュメント\C#\NumberPlaceMaker\NumberPlaceMaker\obj\Debug\NumberPlaceMaker.pdb
+C:\Users\micro\OneDrive\ドキュメント\C#\NumberPlaceMaker\NumberPlaceMaker\bin\Debug\NumberPlaceMaker.exe
+C:\Users\micro\OneDrive\ドキュメント\C#\NumberPlaceMaker\NumberPlaceMaker\bin\Debug\NumberPlaceMaker.pdb
